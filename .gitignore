@@ -1,0 +1,7 @@
+*.env
+*.pyc
+*.pyo
+*.sublime*
+**/__pycache__/*
+**/.pytest_cache/*
+**/.vscode/*

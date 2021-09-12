@@ -1,0 +1,10 @@
+# Install libs
+
+psycopg2==2.9.1
+redis==3.5.3
+fastapi-utils==0.2.1
+cryptography==3.4.8
+structlog==21.1.0
+pika==1.1.0
+pytest==6.2.5
+requests==2.26.0
